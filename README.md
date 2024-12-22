@@ -5,4 +5,5 @@
 
 ## Fontes
 O ficheiro com os dados dos códigos postais foi obtido através deste repositório:
+
 -[Repositório dos Códigos Postais](https://github.com/centraldedados/codigos_postais)
