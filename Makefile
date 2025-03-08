@@ -1,6 +1,6 @@
 CC = gcc                 
 CFLAGS = -Wall -Wextra    
-EXEC = programa           
+EXEC = codpostal           
 SRC = main.c              
 
 all: $(EXEC)
