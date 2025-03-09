@@ -29,6 +29,7 @@ int main(int argc, char *argv[]){
     }else{
       printf("Utiliza o seguinte formato:\n./codpostal 9650-007\n");
     }
+    free(cod);
     return 0;
 }
 
