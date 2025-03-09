@@ -26,10 +26,10 @@ int main(int argc, char *argv[]){
       }
       int cod_postal = atoi(cod);
       codigoPostal(cod_postal);
+        free(cod);
     }else{
       printf("Utiliza o seguinte formato:\n./codpostal 9650-007\n");
     }
-    free(cod);
     return 0;
 }
 
